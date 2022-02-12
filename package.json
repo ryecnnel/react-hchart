@@ -1,0 +1,20 @@
+{
+  "name": "resas-highcharts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "eslint": "^4.10.0",
+    "highcharts": "^6.1.4",
+    "highcharts-react-official": "^1.4.0",
+    "prettier": "^2.5.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
