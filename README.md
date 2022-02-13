@@ -1,6 +1,6 @@
 # Highcharts React + RESAS API Demo
 
-![demo](https://github.com/tatane616/highcharts-react-resas/blob/master/demo.gif)
+![demo](https://github.com/ryecnnel/react-hchart/blob/main/react-hc-demo.gif)
 
 ## Usage
 
